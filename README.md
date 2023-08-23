@@ -1,6 +1,3 @@
-# human_emotion_analyzer
-
-
 # Human Emotion Detector
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
